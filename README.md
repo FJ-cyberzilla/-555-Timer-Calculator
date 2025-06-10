@@ -2,7 +2,7 @@
 
 A sleek command-line tool to calculate the delay timing components for a **monostable 555 timer circuit**. Enter your delay time, voltage, and load current — and instantly get the capacitor size, transistor pick, wiring instructions, and more.
 
-> ⚙️ Made by **F.J™ Ceybertronic systems & F.R.I.D.A.Y**  
+> ⚙️ Made by **F.J™ Cybertronic systems & F.R.I.D.A.Y**  
 > 🧪 Powered by Python, styled with `rich`
 
 ---
