@@ -24,6 +24,6 @@ Make sure `rich` is installed:
 
 ```bash
 pip install rich
-python last.py
+python ic555-Cal.py
 
 SPRING-MMXXV
